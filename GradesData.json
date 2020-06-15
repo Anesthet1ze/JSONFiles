@@ -1,21 +1,23 @@
-[{
-		"GradedItem": "In-Class",
-		"GradeGiven": "0",
-		"GradeValue": "15"
-	},
-	{
-		"GradedItem": "Projects",
-		"GradeGiven": "0",
-		"GradeValue": "20"
-	},
-	{
-		"GradedItem": "Mid-Term",
-		"GradeGiven": "0",
-		"GradeValue": "25"
-	},
-	{
-		"GradedItem": "Final",
-		"GradeGiven": "0",
-		"GradeValue": "25"
-	}
-]
+{
+	"gradesdata": [{
+			"GradedItem": "In-Class",
+			"GradeGiven": "0",
+			"GradeValue": "15"
+		},
+		{
+			"GradedItem": "Projects",
+			"GradeGiven": "0",
+			"GradeValue": "20"
+		},
+		{
+			"GradedItem": "Mid-Term",
+			"GradeGiven": "0",
+			"GradeValue": "25"
+		},
+		{
+			"GradedItem": "Final",
+			"GradeGiven": "0",
+			"GradeValue": "25"
+		}
+	]
+}
